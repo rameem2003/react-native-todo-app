@@ -2,7 +2,7 @@
   "expo": {
     "name": "Daily Task",
     "slug": "todo_android",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/appicon.png",
     "userInterfaceStyle": "light",
